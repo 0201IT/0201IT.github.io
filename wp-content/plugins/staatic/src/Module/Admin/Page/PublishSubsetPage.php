@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\WordPress\Module\Admin\Page\TriggersPublications&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\src\Module\Admin\Page\PublishSubsetPage.php</b> on line <b>15</b><br>

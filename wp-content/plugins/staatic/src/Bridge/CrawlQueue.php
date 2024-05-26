@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Psr\Log\LoggerAwareTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\src\Bridge\CrawlQueue.php</b> on line <b>17</b><br>

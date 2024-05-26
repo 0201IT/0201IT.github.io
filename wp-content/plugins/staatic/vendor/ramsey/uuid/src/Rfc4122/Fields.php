@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Ramsey\Uuid\Rfc4122\MaxTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\ramsey\uuid\src\Rfc4122\Fields.php</b> on line <b>19</b><br>

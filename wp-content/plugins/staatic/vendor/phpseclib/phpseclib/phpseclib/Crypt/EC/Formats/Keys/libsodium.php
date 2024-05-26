@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\phpseclib3\Crypt\EC\Formats\Keys\Common&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\phpseclib\phpseclib\phpseclib\Crypt\EC\Formats\Keys\libsodium.php</b> on line <b>9</b><br>

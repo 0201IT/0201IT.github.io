@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\phpseclib3\System\SSH\Common\Traits\ReadBytes&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\phpseclib\phpseclib\phpseclib\System\SSH\Agent.php</b> on line <b>13</b><br>
