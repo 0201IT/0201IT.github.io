@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\WordPress\Cli\PublishesFromCli&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\src\Cli\PublishCommand.php</b> on line <b>18</b><br>

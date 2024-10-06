@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Ramsey\Uuid\Fields\SerializableFieldsTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\ramsey\uuid\src\Nonstandard\Fields.php</b> on line <b>19</b><br>

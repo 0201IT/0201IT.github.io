@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Symfony\Contracts\Service\ServiceLocatorTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\symfony\dependency-injection\ServiceLocator.php</b> on line <b>15</b><br>

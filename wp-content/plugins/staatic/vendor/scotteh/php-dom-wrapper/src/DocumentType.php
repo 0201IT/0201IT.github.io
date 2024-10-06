@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\DOMWrap\Traits\CommonTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\scotteh\php-dom-wrapper\src\DocumentType.php</b> on line <b>11</b><br>

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Psr\Log\LoggerTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\psr\log\src\AbstractLogger.php</b> on line <b>5</b><br>
