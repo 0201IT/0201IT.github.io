@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\WordPress\Module\Admin\Page\FlashesMessages&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\src\Module\Admin\Page\TriggersPublications.php</b> on line <b>9</b><br>
