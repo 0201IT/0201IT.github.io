@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Symfony\Component\HttpClient\Exception\HttpExceptionTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\symfony\http-client\Exception\RedirectionException.php</b> on line <b>7</b><br>

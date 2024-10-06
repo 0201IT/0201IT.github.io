@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Global One Inc.</title>
+	<title>globaloneinvestor.com</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Bridging Businesses to Their Ideal Spaces</description>
-	<lastBuildDate>Sat, 25 May 2024 19:12:33 +0000</lastBuildDate>
+	<description>Your Partner in International Investment</description>
+	<lastBuildDate>Thu, 26 Sep 2024 04:08:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/06/GlobalOneLOGO-without-name-1-1-150x150.png</url>
-	<title>Global One Inc.</title>
+	<url>/wp-content/uploads/2024/10/GlobalOneLOGO-without-name-1-150x150.png</url>
+	<title>globaloneinvestor.com</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,8 +32,8 @@
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[ash.191245141]]></dc:creator>
-		<pubDate>Sat, 25 May 2024 19:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[jamesheller]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2024 04:08:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Psr\Log\LoggerTrait&quot; not found in <b>C:\Users\james\Local Sites\globaloneinc\app\public\wp-content\plugins\staatic\vendor\staatic\crawler\src\Logger\StreamLogger.php</b> on line <b>13</b><br>
